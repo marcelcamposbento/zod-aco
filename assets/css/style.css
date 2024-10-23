@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+        background-image: url('https://gzhstories.clicrbs.com.br/wp-content/uploads/2021/11/arte-divulgacao.jpg');
+        background-size: cover; /* para cobrir todo o fundo */
+        background-position: center; /* centraliza a imagem */
+      
+      
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px 50px 10px 50px;
+    
+}
